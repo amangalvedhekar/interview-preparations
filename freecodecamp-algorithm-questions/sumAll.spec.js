@@ -1,5 +1,4 @@
 const assert = require('chai').assert;
-const expect = require('chai').expect;
 
 import {
     getMinimumValue,
@@ -47,5 +46,6 @@ describe('sumAll', () => {
     );
 
     it('should return sum for sequence of numbers',
-        sumForSequenceNumbers);
+        sumForSequenceNumbers
+    );
 });
