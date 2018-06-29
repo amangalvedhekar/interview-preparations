@@ -18,6 +18,15 @@ const arrayOfSameSize = () => {
     assert.deepEqual(actualValue, expectedValue);
 };
 
+const emptyParameter = () => {
+   const arr1 =[];
+   const arr2 = [1,2,3,4];
+   const expectedValue = diffArray(arr1, arr2);
+   const actualValue = arr2;
+
+   assert.deepEqual(expectedValue, actualValue);
+};
+
 describe('Unique element between two array',  () => {
     it(
         'should return an empty array for incorrect parameters',
@@ -27,5 +36,9 @@ describe('Unique element between two array',  () => {
     it(
         'should return unique element between two array of equal size',
         arrayOfSameSize
+    );
+
+    it('should return non emtpy array if one of the parameters is empty',
+        emptyParameter
     );
 });
