@@ -1,7 +1,7 @@
 /**
  *
- * @param arr1
- * @param arr2
+ * @param {[]} arr1
+ * @param {[]} arr2
  * @returns {[]}
  */
 export const diffArray = (arr1 = [], arr2 = []) => {
@@ -12,9 +12,9 @@ export const diffArray = (arr1 = [], arr2 = []) => {
         return uniqueElements1.concat(uniqueElements2);
     } else if (arr1.length === 0) {
         return arr2;
-    }else if(arr2.length === 0){
+    } else if (arr2.length === 0) {
         return arr1;
-    }else {
+    } else {
         return uniqueElements;
     }
 };
