@@ -3,7 +3,8 @@ import {
   seekAndDestroy,
   sumAll,
   whatIsInAName,
-  spinalTapCase
+  spinalTapCase,
+  translatePigLatin,
 } from './freecodecamp-algorithm-questions';
 
 console.log(sumAll([1, 4]));
@@ -20,3 +21,5 @@ console.log(whatIsInAName(
 ));
 
 console.log(spinalTapCase('Teletubbies say Eh-oh'));
+
+console.log(translatePigLatin('algorithm'));
