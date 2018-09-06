@@ -7,4 +7,4 @@
 * [Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/spinalTapCase.js)
 * [Translate the provided string to pig latin](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/pigLatin.js)
 * [Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/oddFibonacciSum.js)
-* [Perform a search and replace on the sentence using the arguments provided and return the new sentence.](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/oddFibonacciSum.js)
+* [Perform a search and replace on the sentence using the arguments provided and return the new sentence.](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/searchAndReplace.js)
