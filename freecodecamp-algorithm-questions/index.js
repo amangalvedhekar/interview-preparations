@@ -1,4 +1,5 @@
 import {diffArray} from './diffArray';
+import {myReplace} from './searchAndReplace';
 import {seekAndDestroy} from './seekAndDestroy';
 import {sumAll} from './sumAll';
 import {whatIsInAName} from './whatIsInAName';
@@ -7,6 +8,7 @@ import {translatePigLatin} from './pigLatin';
 
 export {
   diffArray,
+  myReplace,
   seekAndDestroy,
   sumAll,
   whatIsInAName,

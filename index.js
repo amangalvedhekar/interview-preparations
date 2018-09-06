@@ -1,5 +1,6 @@
 import {
   diffArray,
+  myReplace,
   seekAndDestroy,
   sumAll,
   whatIsInAName,
@@ -29,3 +30,5 @@ console.log(spinalTapCase('Teletubbies say Eh-oh'));
 console.log(translatePigLatin('algorithm'));
 
 console.log(findAnagram('tar', 'rat'));
+
+console.log(myReplace("Let us go to the store", "store", "mall"));
