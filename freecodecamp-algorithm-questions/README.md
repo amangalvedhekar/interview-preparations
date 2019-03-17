@@ -9,5 +9,4 @@
 * [Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/oddFibonacciSum.js)
 * [Perform a search and replace on the sentence using the arguments provided and return the new sentence](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/searchAndReplace.js)
 * [Find the missing letter in the passed letter range and return it.If all letters are present in the range, return undefined](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/missing-letters.js)
-# Project Euler
-* [If all the numbers from 1 to given limit inclusive were written out in words, how many letters would be used?]()
+# [Project Euler](https://github.com/amangalvedhekar/interview-preparations/tree/master/freecodecamp-algorithm-questions/project-euler)

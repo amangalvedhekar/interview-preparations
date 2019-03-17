@@ -1,0 +1,2 @@
+* [If all the numbers from 1 to given limit inclusive were written out in words, how many letters would be used?](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/project-euler/number-letter-counts.js)
+* [Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.](https://github.com/amangalvedhekar/interview-preparations/blob/master/freecodecamp-algorithm-questions/project-euler/sum-square-dfifference.js)
