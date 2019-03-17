@@ -6,6 +6,7 @@ import {
   whatIsInAName,
   spinalTapCase,
   translatePigLatin,
+  missingLetter
 } from './freecodecamp-algorithm-questions';
 
 import {
@@ -32,3 +33,5 @@ console.log(translatePigLatin('algorithm'));
 console.log(findAnagram('tar', 'rat'));
 
 console.log(myReplace("Let us go to the store", "store", "mall"));
+
+console.log(missingLetter("abce"));
