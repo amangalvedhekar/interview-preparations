@@ -13,6 +13,10 @@ import {
   findAnagram
 } from './miscellaneous-code-snippets';
 
+import {
+  sumSquareDifference
+} from "./freecodecamp-algorithm-questions/project-euler";
+
 console.log(sumAll([1, 4]));
 console.log(diffArray([1, 2, 3, 4, 5], [1, 2, 3, 5, 6]));
 console.log(seekAndDestroy([1, 2, 3, 1, 2, 3], 2, 3));
@@ -35,3 +39,5 @@ console.log(findAnagram('tar', 'rat'));
 console.log(myReplace("Let us go to the store", "store", "mall"));
 
 console.log(missingLetter("abce"));
+
+console.log(sumSquareDifference(10));
